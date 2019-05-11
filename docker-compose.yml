@@ -1,7 +1,7 @@
 version: '2'
 services:
   app:
-    image: sanderknape/aws-cognito-app
+    image: thechetantalwar/cognito
     ports:
       - 80:80
     env_file:
