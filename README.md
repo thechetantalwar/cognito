@@ -7,7 +7,7 @@ This sample application shows some basic functionality written against [AWS Cogn
 * Resetting a forgotten password
 * Logout
 
-The application is written in PHP. I've tried to keep the code as simple as possible so that it can be used as an example for other languages as well. In addition, I have written a blog post where I explain how to [get started with AWS Cognito](https://sanderknape.com/2017/02/getting-started-with-aws-cognito). There you will find more theory and background about how to implement AWS Cognito.
+The application is written in PHP. I've tried to keep the code as simple as possible so that it can be used as an example for other languages as well. In addition, I have written a blog post where I explain how to [get started with AWS Cognito] There you will find more theory and background about how to implement AWS Cognito.
 
 The steps to get started are divided in two sections;
 
